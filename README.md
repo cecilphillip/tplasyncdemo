@@ -2,7 +2,7 @@ Async in .NET Demo Code
 ====================
 
 Sample Code from TPL/Async talK
-==================================================
+
 
 Overview
 --------
